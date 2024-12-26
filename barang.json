@@ -1,0 +1,2 @@
+{"_id":{"$oid":"676cabc8eb42bf23cee9496a"},"idbrg":"brg004","nama":"crewneck","jenis":"pakaian","jumlah":"40","harga":"40000","supplier":"sup40"}
+{"_id":{"$oid":"676cac61eb42bf23cee9496b"},"idbrg":"brg008","nama":"flatshoes","jenis":"sepatu","jumlah":"80","harga":"80000","supplier":"sup80"}
